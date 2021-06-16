@@ -1,5 +1,7 @@
 # Membrane cascade simulation
 
+![s0e2-num](https://user-images.githubusercontent.com/66201000/122286282-f8b43f80-ceef-11eb-96b8-69e761a36fa2.png)
+
 ## What is "Membrane cascade simulation" ?
 It is a MATLAB application that helps simulate a membrane system. Scientists and engineers can use their own material parameters to calculate actual process performance and estimate process cost.
 
